@@ -17,4 +17,4 @@
 
 Welcome to my GitHub. If you have any questions about my projects, please feel free to [send me an email](mailto:gjiang240@connect.hkust-gz.edu.cn).
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jgxuann&theme=dracula)](https://github.com/jgxuann/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jgxuann&theme=vue)](https://github.com/jgxuann/github-readme-activity-graph)
