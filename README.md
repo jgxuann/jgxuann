@@ -1,12 +1,13 @@
 ### Hey there, I'm Guanxuan Jiang! 👋
 
 
-[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=googlechrome&logoColor=white)](https://jgxuann.github.io)
-[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IaBa8RAAAAAJ&hl=en)
+
 <!-- [![](https://img.shields.io/github/stars/yaoyao-liu?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=gray)]() 
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!+Hello+Guys!)](https://git.io/typing-svg)
+[![](https://img.shields.io/badge/Homepage-blue?&style=flat-square&logo=googlechrome&logoColor=white)](https://jgxuann.github.io)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IaBa8RAAAAAJ&hl=en)
 ![](https://komarev.com/ghpvc/?username=jgxuann&color=green)
                 
 <!--
