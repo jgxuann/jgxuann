@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IaBa8RAAAAAJ&hl=en)
 <!-- [![](https://img.shields.io/github/stars/yaoyao-liu?style=flat-square&logo=github&label=Github%20Stars&labelColor=gray&color=gray)]() 
 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+                
 <!--
 [![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/google-scholar-stats/gs_data_shieldsio.json?&style=flat-square&logo=google-scholar&logoColor=white&label=Google%20Scholar%20Citations&labelColor=4984e9&color=4984e9&)](https://scholar.google.com/citations?user=Uf9GqRsAAAAJ)
 -->
