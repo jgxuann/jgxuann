@@ -10,5 +10,3 @@
 [![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/yaoyao-liu/yaoyao-liu.github.io/google-scholar-stats/gs_data_shieldsio.json?&style=flat-square&logo=google-scholar&logoColor=white&label=Google%20Scholar%20Citations&labelColor=4984e9&color=4984e9&)](https://scholar.google.com/citations?user=Uf9GqRsAAAAJ)
 -->
 ### Welcome to my GitHub. please feel free to [reach out](mailto:gjiang240@connect.hkust-gz.edu.cn).
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jgxuann&theme=github-compact)](https://github.com/jgxuann/github-readme-activity-graph)
